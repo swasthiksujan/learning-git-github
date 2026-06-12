@@ -1,1 +1,2 @@
 This is the third file, outside the directory (3)
+Here is a new line added to the file through GitHub
